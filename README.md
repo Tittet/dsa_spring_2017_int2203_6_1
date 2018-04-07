@@ -27,7 +27,7 @@
 | ---- | ---------------------------------------- |
 | 01   | [dsa01](Labs/w01_lab01.pdf)              |
 | 02   | [dsa02](Labs/w02_lab02.pdf)              |
-| 03   | [dsa03](Labs/w03_lab03pdf)               |
+| 03   | [dsa03](Labs/w03_lab03.pdf)              |
 | 04   | [dsa04](Labs/w04_lab04.pdf)              |
 | 05   | [dsa05](Labs/w05_lab05.pdf)              |
 | 06   | [dsa06](Labs/w06_lab06.pdf), [strlist.h](Labs/strlist.h.pdf) |
@@ -139,3 +139,7 @@ git remote add upstream https://github.com/kienvu58/dsa_spring_2017_int2203_6_1
 git pull upstream master
 ```
 
+## Sách
+
+[Introduction to Algorithms - CLRS](http://ressources.unisciel.fr/algoprog/s00aaroot/aa00module1/res/%5BCormen-AL2011%5DIntroduction_To_Algorithms-A3.pdf)
+[DSAP](https://kytstech.blogspot.com/2016/09/dsap-textbook.html)
